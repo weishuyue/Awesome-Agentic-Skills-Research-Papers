@@ -94,6 +94,7 @@ Not included by default:
 | 2026 | COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation | [arXiv](https://arxiv.org/abs/2605.31264) | Distills person- or role-grounded traces into inspectable, correctable skill packages. |
 | 2026 | OpenSkill: Open-World Self-Evolution for LLM Agents | [arXiv](https://arxiv.org/abs/2606.06741) | Builds skills and verification signals from scratch in open worlds with no target-task supervision; demonstrates strong transferability across models. |
 | 2026 | Ctx2Skill: From Context to Skills: Can Language Models Learn from Context Skillfully? | [arXiv](https://arxiv.org/abs/2604.27660) | Self-evolving multi-agent self-play framework that discovers, refines, and selects context-specific skills without human supervision. |
+| 2026 | SoftSkill: Behavioral Compression for Contextual Adaptation | [arXiv](https://arxiv.org/abs/2606.20333) |Compresses long textual skills into a compact continuous prefix, enabling efficient behavioral adaptation and significant context reduction while keeping the base model frozen. |
 
 
 ### Skill Retrieval, Routing, and Context Construction
