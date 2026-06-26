@@ -2,7 +2,7 @@
 
 > A curated academic reading list on agentic skills.
 
-Last checked: 2026-06-22.
+Last checked: 2026-06-26.
 
 ---
 
