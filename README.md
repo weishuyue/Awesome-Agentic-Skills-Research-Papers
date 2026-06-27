@@ -50,6 +50,7 @@ Not included by default:
 
 | Year | Paper                                                        | Links                                                        | Why it matters                                               |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026 | Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents | [arXiv](https://arxiv.org/abs/2606.20631) | Catalogue of 10 architectural patterns and a 4-layer reference architecture (Supply Chain, Mediation, Execution Control, Evidence & Feedback) for skill harnessing. |
 | 2026 | SoK: Agentic Skills -- Beyond Tool Use in LLM Agents         | [arXiv](https://arxiv.org/abs/2602.20867)                    | Frames skills as reusable procedural capabilities beyond atomic tool calls, with lifecycle, representation, scope, and security taxonomies. |
 | 2026 | Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward | [arXiv](https://arxiv.org/abs/2602.12430)                    | Focuses on the SKILL.md/progressive-disclosure abstraction, MCP relationship, acquisition, deployment, and trust tiers. |
 | 2026 | A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications | [arXiv](https://arxiv.org/abs/2605.07358)                    | Organizes the literature around representation, acquisition, retrieval, and evolution. |
@@ -57,6 +58,7 @@ Not included by default:
 | 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning, and Feedback Learning | [arXiv](https://arxiv.org/abs/2406.05804)                    | Provides the broader agent paradigm background for skill-based systems. |
 | 2023 | A Survey on Large Language Model based Autonomous Agents     | [arXiv](https://arxiv.org/abs/2308.11432)                    | General LLM-agent survey; useful for positioning skills against memory, planning, and action modules. |
 | 2023 | The Rise and Potential of Large Language Model Based Agents: A Survey | [arXiv](https://arxiv.org/abs/2309.07864)                    | Broad overview of single-agent, multi-agent, and human-agent scenarios. |
+
 
 ### Foundations and Precursors
 
@@ -130,6 +132,7 @@ No standalone security-only paper is listed yet. For security and governance ang
 - [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867) — supply-chain risk, prompt injection through skills, malicious skill payloads, trust tiers.
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430) — Skill Trust and Lifecycle Governance Framework.
 - [How Well Do Agentic Skills Work in the Wild](https://arxiv.org/abs/2604.04323) — fragility of skill gains under realistic retrieval and refinement conditions.
+- [SkillHarness: Harnessing Safe Skills for Computer-Use Agents](https://arxiv.org/abs/2606.20636) — models skill learning as a safety-constrained interaction process; introduces skill boundary and selective skill reuse, reducing unsafe skill rate by 57.1%.
 
 <a name="related-awesome-lists"></a>
 
