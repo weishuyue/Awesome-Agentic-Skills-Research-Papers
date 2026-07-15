@@ -97,6 +97,7 @@ Not included by default:
 | 2026 | OpenSkill: Open-World Self-Evolution for LLM Agents | [arXiv](https://arxiv.org/abs/2606.06741) | Builds skills and verification signals from scratch in open worlds with no target-task supervision; demonstrates strong transferability across models. |
 | 2026 | Ctx2Skill: From Context to Skills: Can Language Models Learn from Context Skillfully? | [arXiv](https://arxiv.org/abs/2604.27660) | Self-evolving multi-agent self-play framework that discovers, refines, and selects context-specific skills without human supervision. |
 | 2026 | SoftSkill: Behavioral Compression for Contextual Adaptation | [arXiv](https://arxiv.org/abs/2606.20333) |Compresses long textual skills into a compact continuous prefix, enabling efficient behavioral adaptation and significant context reduction while keeping the base model frozen. |
+| 2026 | SkillOpt: Executive Strategy for Self-Evolving Agent Skills | [arXiv](https://arxiv.org/abs/2605.23904) |Train agent skills like you train neural networks — with epochs, (mini-)batchsize, learning rates, and validation gates — but without touching model weights. |
 
 
 ### Skill Retrieval, Routing, and Context Construction
