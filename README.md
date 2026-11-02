@@ -42,7 +42,6 @@ Not included by default:
   - [Security and governance](#security-and-governance)
 - [🔗 Related awesome lists](#related-awesome-lists)
 - [🤝 Contributing](#contributing)
-- [🆕 Recent skill creation / generation papers to integrate](#recent-skill-creation--generation-papers-to-integrate)
 
 <a name="paper-list"></a>
 
@@ -113,6 +112,8 @@ Not included by default:
 | 2026 | EVISKILL: Grounding Skill Evolution in Replayable Evidence | [arXiv preprint](https://arxiv.org/abs/2610.05030) | Links skill edits to replayable evidence and uses targeted re-execution and global validation before admission. |
 | 2026 | Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation | [arXiv preprint](https://arxiv.org/abs/2610.33024) | Studies why skills transfer unevenly across model capabilities and uses a meta-skill to adapt guidance to the executor. |
 | 2026 | SkillAlchemy: Open-World Agent Skill Creation | [arXiv preprint](https://arxiv.org/abs/2608.23417) / [Code](https://github.com/agentsope/SkillAlchemy) | Creates source-grounded skills from underspecified briefs by discovering implicit requirements, admitting procedures within evidence-supported scope, and compiling structured skill packages. |
+| 2026 | MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation | [arXiv](https://arxiv.org/abs/2605.27366) | Frames skills as long-lived assets in a creation, memory, management, evaluation, and refinement lifecycle. |
+| 2026 | SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision | [arXiv](https://arxiv.org/abs/2606.01139) | Refines imperfect LLM-authored skills using execution traces, repair principles, re-execution, and empirical utility selection. |
 
 ### Skill Retrieval, Routing, and Context Construction
 
@@ -139,6 +140,8 @@ Not included by default:
 | 2026 | GitSkills: A Dataset of Agent Skills on GitHub | [arXiv preprint](https://arxiv.org/abs/2608.10906) | Provides a large-scale corpus of SKILL.md occurrences with content hashes and metadata for reuse, maintenance, and security research. |
 | 2026 | Demystifying Agent Skills: Why They Work-Until They Don't | [arXiv preprint](https://arxiv.org/abs/2608.14036) | Uses controlled comparisons and paired trajectory analysis to study skill representations, procedural anchoring, and retrieval bottlenecks. |
 | 2026 | Agent Skill Evolution: How Revisions Affect Coding Agents | [arXiv preprint](https://arxiv.org/abs/2610.04832) | Studies real skill revisions and measures changes in rule compliance, agent behavior, correctness, and context cost. |
+| 2026 | SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents | [arXiv](https://arxiv.org/abs/2605.18693) | Treats skill generation itself as the benchmark target, covering task-conditioned and task-agnostic generation from repository- and document-grounded sources. |
+| 2026 | SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks | [arXiv](https://arxiv.org/abs/2604.20087) | Evaluates continual skill generation methods across skill quality, execution trajectory, and task outcome, including skill-creator-style baselines. |
 
 ### Application-Specific Skill Systems
 
@@ -202,15 +205,3 @@ Inclusion checklist:
 - The link points to a primary source when possible: arXiv, ACL Anthology, OpenReview, publisher page, project page, or official repository.
 - Prefer the official published version and its title/year when available; label Findings, Industry Track, workshops, pre-proceedings, and preprints accurately. Keep one entry per work rather than listing each version separately.
 - The note explains the agentic-skill relevance, not just the general LLM-agent relevance.
-
-<a name="recent-skill-creation--generation-papers-to-integrate"></a>
-
-## 🆕 Recent Skill Creation / Generation Papers to Integrate
-
-| Year | Paper                                                        | Links                                     | Why it matters                                               |
-| ---- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
-| 2026 | SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents | [arXiv](https://arxiv.org/abs/2605.18693) | Treats skill generation itself as the benchmark target, covering task-conditioned and task-agnostic generation from repository- and document-grounded sources. |
-| 2026 | MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation | [arXiv](https://arxiv.org/abs/2605.27366) | Frames skills as long-lived assets in a creation, memory, management, evaluation, and refinement lifecycle. |
-| 2026 | SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks | [arXiv](https://arxiv.org/abs/2604.20087) | Evaluates continual skill generation methods across skill quality, execution trajectory, and task outcome, including skill-creator-style baselines. |
-| 2026 | SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision | [arXiv](https://arxiv.org/abs/2606.01139) | Refines imperfect LLM-authored skills using execution traces, repair principles, re-execution, and empirical utility selection. |
-| 2026 | SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support | [arXiv](https://arxiv.org/abs/2604.08618) | Uses a domain-contextualized Skill Creator plus failure analysis and optimization loops for enterprise support skills; already listed above under application-specific systems, but directly relevant to skill creation. |
