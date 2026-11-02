@@ -112,6 +112,7 @@ Not included by default:
 | 2026 | RepairGate: RL-Trained Skill Repair and Abstention for Lifelong Agent Libraries | [Findings of EMNLP 2026](https://aclanthology.org/2026.findings-emnlp.648/) | Trains a post-trial gate to accept, block, or override skill patches while controlling library growth. |
 | 2026 | EVISKILL: Grounding Skill Evolution in Replayable Evidence | [arXiv preprint](https://arxiv.org/abs/2610.05030) | Links skill edits to replayable evidence and uses targeted re-execution and global validation before admission. |
 | 2026 | Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation | [arXiv preprint](https://arxiv.org/abs/2610.33024) | Studies why skills transfer unevenly across model capabilities and uses a meta-skill to adapt guidance to the executor. |
+| 2026 | SkillAlchemy: Open-World Agent Skill Creation | [arXiv preprint](https://arxiv.org/abs/2608.23417) / [Code](https://github.com/agentsope/SkillAlchemy) | Creates source-grounded skills from underspecified briefs by discovering implicit requirements, admitting procedures within evidence-supported scope, and compiling structured skill packages. |
 
 ### Skill Retrieval, Routing, and Context Construction
 
