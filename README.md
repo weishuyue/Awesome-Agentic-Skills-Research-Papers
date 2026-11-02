@@ -126,6 +126,7 @@ Not included by default:
 | 2026 | CUA-Skill: Develop Skills for Computer Using Agent           | [arXiv](https://arxiv.org/abs/2601.21123) | Builds a structured skill base for computer-using agents on Windows applications. |
 | 2026 | SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support | [arXiv](https://arxiv.org/abs/2604.08618) | Creates and refines domain-specific enterprise support skills from knowledge bases and operational failures. |
 | 2026 | PANDO: Efficient Multimodal AI Agents via Online Skill Distillation | [arXiv](https://arxiv.org/abs/2605.24785) | Online skill distillation for multimodal web agents with efficiency metrics. |
+| 2026 | Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report | [arXiv](https://arxiv.org/abs/2608.15763) | Trains a live-commerce agent to remain responsive to revised skill identifiers, content, and routing interfaces within an evolving harness. |
 
 ### Security and Governance
 
